@@ -5,10 +5,10 @@
 2. [SOP Order](https://github.com/WTanardi/HIMSIMediaDoc#sop-order-)
 3. [Prosedur Penerimaan Order](https://github.com/WTanardi/HIMSIMediaDoc#prosedur-penerimaan-order-)
 4. [Guideline Template Bulanan IG](https://github.com/WTanardi/HIMSIMediaDoc#guideline-template-bulanan-)
-    - [Template Feed](https://github.com/WTanardi/HIMSIMediaDoc#guideline-template-bulanan-)
-      - [Template Slide](https://github.com/WTanardi/HIMSIMediaDoc#template-slide-)
-    - [Template Story](https://github.com/WTanardi/HIMSIMediaDoc#template-story-)
-      - [Template Live Report & After Report](https://github.com/WTanardi/HIMSIMediaDoc#template-live-report--after-report-)
+    - [Template Feed](https://github.com/WTanardi/HIMSIMediaDoc#template-feed)
+      - [Template Slide](https://github.com/WTanardi/HIMSIMediaDoc#template-slide)
+    - [Template Story](https://github.com/WTanardi/HIMSIMediaDoc#template-story)
+      - [Template Live Report & After Report](https://github.com/WTanardi/HIMSIMediaDoc#template-live-report--after-report)
 5. [Guideline Mading]()
 
 ---
