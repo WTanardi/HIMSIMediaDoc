@@ -34,7 +34,6 @@
 
 <br/>
 
----
 ## SOP Order
 - Prosedur
   1. Isi form order
@@ -84,7 +83,6 @@
 
   </br>
 
----
 ## Prosedur Penerimaan Order
   1. Sekbid menerima order
   2. Diskusikan bersama Kabid untuk Accept/Decline Order
@@ -112,7 +110,6 @@
 
   </br>
 
----
 ## Guideline Template Bulanan
 - Menggunakan software yang ada layer seperti Figma atau Photoshop
 ### **Template Feed**
