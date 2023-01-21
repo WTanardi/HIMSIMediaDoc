@@ -47,7 +47,7 @@
 
 <br/>
 
-## SOP Order
+## SOP Order [^](https://github.com/WTanardi/HIMSIMediaDoc#)
 - Prosedur
   1. Isi form order
   2. Kirim ke Sekbid
@@ -96,7 +96,7 @@
 
   </br>
 
-## Prosedur Penerimaan Order
+## Prosedur Penerimaan Order [^](https://github.com/WTanardi/HIMSIMediaDoc#)
   1. Sekbid menerima order
   2. Diskusikan bersama Kabid untuk Accept/Decline Order
   3. Forward orderan ke grup Media dengan format
@@ -123,7 +123,7 @@
 
   </br>
 
-## Guideline Template Bulanan
+## Guideline Template Bulanan [^](https://github.com/WTanardi/HIMSIMediaDoc#)
 - Menggunakan software yang ada layer seperti Figma atau Photoshop
 ### **Template Feed**
 - Ukuran 1350x1080
