@@ -13,7 +13,7 @@
 
 ---
 
-## Struktur + Jobdesk [^](https://github.com/WTanardi/HIMSIMediaDoc)
+## Struktur + Jobdesk [^](https://github.com/WTanardi/HIMSIMediaDoc#daftar-isi)
 
 - **Kepala Bidang**
   - Ngawasin anak-anak
@@ -47,7 +47,7 @@
 
 <br/>
 
-## SOP Order [^](https://github.com/WTanardi/HIMSIMediaDoc)
+## SOP Order [^](https://github.com/WTanardi/HIMSIMediaDoc#daftar-isi)
 - Prosedur
   1. Isi form order
   2. Kirim ke Sekbid
@@ -96,7 +96,7 @@
 
   </br>
 
-## Prosedur Penerimaan Order [^](https://github.com/WTanardi/HIMSIMediaDoc)
+## Prosedur Penerimaan Order [^](https://github.com/WTanardi/HIMSIMediaDoc#daftar-isi)
   1. Sekbid menerima order
   2. Diskusikan bersama Kabid untuk Accept/Decline Order
   3. Forward orderan ke grup Media dengan format
@@ -123,7 +123,7 @@
 
   </br>
 
-## Guideline Template Bulanan [^](https://github.com/WTanardi/HIMSIMediaDoc)
+## Guideline Template Bulanan [^](https://github.com/WTanardi/HIMSIMediaDoc#daftar-isi)
 - Menggunakan software yang ada layer seperti Figma atau Photoshop
 ### **Template Feed**
 - Ukuran 1350x1080
